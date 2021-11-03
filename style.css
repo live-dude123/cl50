@@ -1,0 +1,16 @@
+ h1{
+        color:red ;
+    }
+
+ 
+    
+ 
+ p{
+     color: royalblue;
+ }
+.box{
+    border:solid ;
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
